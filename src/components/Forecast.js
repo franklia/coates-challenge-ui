@@ -9,7 +9,7 @@ const useStyles = makeStyles({
     flexDirection: 'column',
     justifyContent: 'center',
     width: '130px',
-    margin: '0 20px 20px 0',
+    margin: '0 15px 15px 0',
     padding: '20px 0 20px 20px',
     textAlign: 'left',
     backgroundColor: '#81a5fe',
