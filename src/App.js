@@ -46,7 +46,6 @@ function App() {
 
   useEffect(() => {
     const values = getTemperatures();
-    console.log('temp values in useEffect: ', values);
   }, []);
 
   const getTemperatures = () => {
