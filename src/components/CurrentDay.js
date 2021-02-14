@@ -24,7 +24,7 @@ const useStyles = makeStyles({
   },
   maxTemp: {
     fontSize: '80px',
-    color: '#6e98ff',
+    color: '#477cff',
     fontWeight: 600,
     margin: 0,
   },
@@ -34,14 +34,15 @@ const useStyles = makeStyles({
     margin: '40px 20px 0 30px',
   },
   minTemp: {
-    color: '#6e98ff',
+    color: '#477cff',
     fontSize: '30px',
     fontWeight: 600,
     margin: '5px 0',
+    opacity: '0.9',
   },
   label: {
     margin: 0,
-    color: '#6e98ff',
+    color: '#477cff',
     fontWeight: 600,
   },
   description: {

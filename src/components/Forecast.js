@@ -14,7 +14,7 @@ const useStyles = makeStyles({
     textAlign: 'left',
     backgroundColor: '#81a5fe',
     '&:hover': {
-      backgroundColor: '#6e98ff',
+      backgroundColor: '#477cff',
     },
   },
   h3: {
